@@ -39,5 +39,6 @@
     "editor.fontSize": 18,
     "git.enabled": false,
     // "prettier.printWidth": 50,
-    "editor.cursorBlinking": "solid"
+    "editor.cursorBlinking": "solid",
+    "editor.fontFamily": "Consolas, 'Courier New', monospace"
 }
